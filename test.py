@@ -1,14 +1,3 @@
-"""
-timetable_full_solver_v3.py
-
-Robust CSP timetable generator that:
- - auto-detects column names (flexible) to avoid instructor_id errors
- - reads these sheets from Tables.xlsx:
-     Courses, Instructors, Rooms, TimeSlots, Sections, Curriculum
- - produces timetable_solution.csv (no nulls) and report.txt (performance)
- - GUI: select file and run (Tkinter)
-"""
-
 import pandas as pd
 import random
 import time
@@ -16,9 +5,9 @@ from collections import defaultdict
 import tkinter as tk
 from tkinter import filedialog, messagebox
 
-# -------------------------
+
 # Utilities: flexible column lookup
-# -------------------------
+
 def find_column(df, candidates):
     """Return the first candidate name that exists in df.columns, else None."""
     for c in candidates:
@@ -52,13 +41,11 @@ def compatible_room(course_type, room_type):
         return True
     return False
 
-# -------------------------
 # Load Excel (detect sheets)
-# -------------------------
+
 def load_tables_xlsx(path):
     xls = pd.ExcelFile(path)
     names = xls.sheet_names
-    # We expect sheets (case-insensitive) for these roles:
     expected = {
         "courses": ["courses"],
         "instructors": ["instructors","instructor"],
@@ -84,9 +71,8 @@ def load_tables_xlsx(path):
         raise RuntimeError(f"Missing sheets in {path}: {missing}. Present sheets: {names}")
     return data["courses"], data["instructors"], data["rooms"], data["timeslots"], data["sections"], data["curriculum"]
 
-# -------------------------
 # Preprocess (robust col names)
-# -------------------------
+
 def preprocess(courses_df, instructors_df, rooms_df, timeslots_df, sections_df, curriculum_df):
     # Courses: find columns
     course_id_col = find_column(courses_df, ["course_id","courseid","course code","code","id"])
@@ -195,9 +181,8 @@ def preprocess(courses_df, instructors_df, rooms_df, timeslots_df, sections_df, 
 
     return courses, instructors, rooms, timeslots, timeslot_info, sections, curriculum, msgs
 
-# -------------------------
 # Build variables & domains
-# -------------------------
+
 class LectureVar:
     def __init__(self, course, section, year, idx, students):
         self.course = course
@@ -242,9 +227,8 @@ def build_vars_domains(courses, instructors, rooms, timeslots, sections, curricu
                 domains[v] = dom
     return variables, domains
 
-# -------------------------
+
 # Greedy solver (hard constraints enforced)
-# -------------------------
 def greedy_assign(variables, domains):
     assigned = {}
     used_room_ts = set()
@@ -263,7 +247,7 @@ def greedy_assign(variables, domains):
             chosen = option
             break
         if not chosen:
-            # fallback: pick option minimizing conflicts (if any)
+            # fallback: pick option minimizing conflicts
             best = None
             best_conf = 1e9
             for option in dom:
@@ -278,7 +262,7 @@ def greedy_assign(variables, domains):
                 chosen = best
                 violations += 1
         if not chosen:
-            # ultimate synthetic fallback (very rare)
+            # ultimate synthetic fallback 
             t = domains and next(iter(dom))[0] if dom else "ts0"
             r = domains and next(iter(dom))[1] if dom else "room0"
             instr = domains and next(iter(dom))[2] if dom else "instr0"
@@ -290,9 +274,8 @@ def greedy_assign(variables, domains):
         used_instr_ts.add((t,instr))
     return assigned, violations
 
-# -------------------------
+
 # Local improvement to increase qualified assignments (no hard-constraint breaks)
-# -------------------------
 def improve_assignments(assigned, domains, instructors, max_iters=5000):
     room_ts = set((t,r) for v,(t,r,i,q) in assigned.items())
     instr_ts = set((t,i) for v,(t,r,i,q) in assigned.items())
@@ -330,9 +313,7 @@ def improve_assignments(assigned, domains, instructors, max_iters=5000):
             improved += 1
     return assigned, improved
 
-# -------------------------
 # Export CSV and report
-# -------------------------
 def export_results(assigned, timeslot_info, instructors, out_csv="timetable_solution.csv", report_file="report.txt", runtime=0, violations=0, improved=0):
     rows=[]
     for v,val in assigned.items():
@@ -368,9 +349,7 @@ def export_results(assigned, timeslot_info, instructors, out_csv="timetable_solu
         f.write(f"Generation time (s): {runtime:.4f}\n")
     return out_csv, report_file
 
-# -------------------------
 # GUI & orchestration
-# -------------------------
 def run_gui():
     root = tk.Tk()
     root.title("Timetable CSP Generator (v3)")
@@ -404,3 +383,4 @@ if __name__ == "__main__":
     run_gui()
 
     #streamlet
+
