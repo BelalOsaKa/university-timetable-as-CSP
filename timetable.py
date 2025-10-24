@@ -4,9 +4,8 @@ import random
 import time
 from collections import defaultdict
 
-# -------------------------
 # Helper functions
-# -------------------------
+
 def safe_str(x):
     if pd.isna(x):
         return ""
@@ -33,9 +32,9 @@ def compatible_room(course_type, room_type):
         return True
     return False
 
-# -------------------------
+
 # Load Excel sheets
-# -------------------------
+
 def load_tables_xlsx(path="Tables.xlsx"):
     xls = pd.ExcelFile(path)
     sheets = {name.lower(): name for name in xls.sheet_names}
@@ -63,9 +62,9 @@ def load_tables_xlsx(path="Tables.xlsx"):
         raise RuntimeError(f"Missing sheets: {missing}")
     return data["courses"], data["instructors"], data["rooms"], data["timeslots"], data["sections"], data["curriculum"]
 
-# -------------------------
+
 # Preprocess data
-# -------------------------
+
 def preprocess(courses_df, instructors_df, rooms_df, timeslots_df, sections_df, curriculum_df):
     # Courses
     courses = {}
@@ -121,9 +120,8 @@ def preprocess(courses_df, instructors_df, rooms_df, timeslots_df, sections_df, 
 
     return courses, instructors, rooms, timeslots, timeslot_info, sections, curriculum
 
-# -------------------------
 # Lecture variable
-# -------------------------
+
 class LectureVar:
     def __init__(self, course, section, year, idx, students):
         self.course = course
@@ -133,9 +131,7 @@ class LectureVar:
         self.students = students
         self.name = f"{course}_{section}_L{idx}"
 
-# -------------------------
 # Build variables and domains
-# -------------------------
 def build_vars_domains(courses, instructors, rooms, timeslots, sections, curriculum):
     variables = []
     domains = {}
@@ -162,9 +158,8 @@ def build_vars_domains(courses, instructors, rooms, timeslots, sections, curricu
                 domains[v] = dom
     return variables, domains
 
-# -------------------------
+
 # Greedy assignment
-# -------------------------
 def greedy_assign(variables, domains, instructors, rooms, timeslots):
     assigned = {}
     used_room_ts = set()
@@ -194,9 +189,8 @@ def greedy_assign(variables, domains, instructors, rooms, timeslots):
         used_instr_ts.add((t, instr))
     return assigned
 
-# -------------------------
+
 # Export CSV
-# -------------------------
 def export_csv(assigned, timeslot_info, instructors, filename="timetable_solution.csv"):
     rows = []
     for v, val in assigned.items():
@@ -223,9 +217,7 @@ def export_csv(assigned, timeslot_info, instructors, filename="timetable_solutio
     df.to_csv(filename, index=False)
     print(f"✅ Exported {len(df)} rows to {filename}")
 
-# -------------------------
 # Main
-# -------------------------
 def main():
     print("📘 Loading Tables.xlsx ...")
     courses_df, instructors_df, rooms_df, timeslots_df, sections_df, curriculum_df = load_tables_xlsx("Tables.xlsx")
@@ -241,3 +233,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
