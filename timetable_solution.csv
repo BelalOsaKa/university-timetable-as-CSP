@@ -1,0 +1,496 @@
+Variable,Year,Course,Section,TimeslotID,Day,Start,End,Room,InstructorID,InstructorName,InstructorQualified
+CSC 111_1_L0,1,CSC 111,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B07 F1.04,15,Mariam Ismael,True
+CSC 111_1_L1,1,CSC 111,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B07 F1.24,16,Nour Akram,True
+ECE 111_1_L0,1,ECE 111,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B07 G01,29,Ahmed Allam,True
+ECE 111_1_L1,1,ECE 111,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B07 G12,30,Sameh Sherif,True
+LRA 101_1_L0,1,LRA 101,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B18 F1.1,34,Sherine Elmotasem,True
+LRA 101_1_L1,1,LRA 101,1,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 104_1_L0,1,LRA 104,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B18 F1.10,35,Hamada El Safroot,True
+LRA 104_1_L1,1,LRA 104,1,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B07 G01,35,Hamada El Safroot,True
+LRA 105_1_L0,1,LRA 105,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B18 F1.5,36,Shamshoon,True
+LRA 105_1_L1,1,LRA 105,1,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B18 F1.1,36,Shamshoon,True
+LRA 401_1_L0,1,LRA 401,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B07 F1.01,38,Eman Refaat,True
+MTH 111_1_L0,1,MTH 111,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B18 G08,42,Ayman Arafa,True
+MTH 111_1_L1,1,MTH 111,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B18 G09,43,Abo Rehab,True
+PHY 113_1_L0,1,PHY 113,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B17.G17,31,Mowahed El Qotren,True
+PHY 113_1_L1,1,PHY 113,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B17-G01,44,Adel Shakal,True
+CSC 111_2_L0,1,CSC 111,2,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B17-G16,17,Nada Essam,True
+CSC 111_2_L1,1,CSC 111,2,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B17-G22,18,Mariem Nagy,True
+ECE 111_2_L0,1,ECE 111,2,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B18 G13,47,Mofareq El Qotren,True
+ECE 111_2_L1,1,ECE 111,2,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B07 F1.04,29,Ahmed Allam,True
+LRA 101_2_L0,1,LRA 101,2,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 101_2_L1,1,LRA 101,2,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 104_2_L0,1,LRA 104,2,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B07 G01,35,Hamada El Safroot,True
+LRA 104_2_L1,1,LRA 104,2,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B07 G01,35,Hamada El Safroot,True
+LRA 105_2_L0,1,LRA 105,2,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B18 F1.1,36,Shamshoon,True
+LRA 105_2_L1,1,LRA 105,2,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B18 F1.1,36,Shamshoon,True
+LRA 401_2_L0,1,LRA 401,2,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B07 F1.02,39,Miyazawa,True
+MTH 111_2_L0,1,MTH 111,2,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B18-G20,45,Ahmed Zakaria,True
+MTH 111_2_L1,1,MTH 111,2,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B18 F1.10,42,Ayman Arafa,True
+PHY 113_2_L0,1,PHY 113,2,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B18-G01,46,Adel Fathy,True
+PHY 113_2_L1,1,PHY 113,2,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B07 G12,31,Mowahed El Qotren,True
+CSC 111_3_L0,1,CSC 111,3,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B18-G05,19,Reda Elbasiony,True
+CSC 111_3_L1,1,CSC 111,3,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B17.G17,15,Mariam Ismael,True
+ECE 111_3_L0,1,ECE 111,3,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B17-G01,30,Sameh Sherif,True
+ECE 111_3_L1,1,ECE 111,3,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B17-G16,47,Mofareq El Qotren,True
+LRA 101_3_L0,1,LRA 101,3,mon_9:00_10:30,Monday,09:00:00,10:30:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 101_3_L1,1,LRA 101,3,mon_10:45_12:15,Monday,10:45:00,12:15:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 104_3_L0,1,LRA 104,3,mon_9:00_10:30,Monday,09:00:00,10:30:00,B07 G01,35,Hamada El Safroot,True
+LRA 104_3_L1,1,LRA 104,3,mon_10:45_12:15,Monday,10:45:00,12:15:00,B07 G01,35,Hamada El Safroot,True
+LRA 105_3_L0,1,LRA 105,3,mon_9:00_10:30,Monday,09:00:00,10:30:00,B18 F1.1,36,Shamshoon,True
+LRA 105_3_L1,1,LRA 105,3,mon_10:45_12:15,Monday,10:45:00,12:15:00,B18 F1.1,36,Shamshoon,True
+LRA 401_3_L0,1,LRA 401,3,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B07 F1.20,40,Rika,True
+MTH 111_3_L0,1,MTH 111,3,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B18 F1.5,43,Abo Rehab,True
+MTH 111_3_L1,1,MTH 111,3,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B18 G08,44,Adel Shakal,True
+PHY 113_3_L0,1,PHY 113,3,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B17-G22,46,Adel Fathy,True
+PHY 113_3_L1,1,PHY 113,3,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B07 F1.04,31,Mowahed El Qotren,True
+CSC 111_4_L0,1,CSC 111,4,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B18 G09,16,Nour Akram,True
+CSC 111_4_L1,1,CSC 111,4,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B18 G13,17,Nada Essam,True
+ECE 111_4_L0,1,ECE 111,4,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B07 G12,29,Ahmed Allam,True
+ECE 111_4_L1,1,ECE 111,4,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B17.G17,30,Sameh Sherif,True
+LRA 101_4_L0,1,LRA 101,4,mon_12:30_2:00,Monday,12:30:00,02:00:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 101_4_L1,1,LRA 101,4,mon_2:15_3:45,Monday,02:15:00,03:45:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 104_4_L0,1,LRA 104,4,mon_12:30_2:00,Monday,12:30:00,02:00:00,B07 G01,35,Hamada El Safroot,True
+LRA 104_4_L1,1,LRA 104,4,mon_2:15_3:45,Monday,02:15:00,03:45:00,B07 G01,35,Hamada El Safroot,True
+LRA 105_4_L0,1,LRA 105,4,mon_12:30_2:00,Monday,12:30:00,02:00:00,B18 F1.1,36,Shamshoon,True
+LRA 105_4_L1,1,LRA 105,4,mon_2:15_3:45,Monday,02:15:00,03:45:00,B18 F1.1,36,Shamshoon,True
+LRA 401_4_L0,1,LRA 401,4,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B07 F1.21,41,Sato,True
+MTH 111_4_L0,1,MTH 111,4,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B18-G20,45,Ahmed Zakaria,True
+MTH 111_4_L1,1,MTH 111,4,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B18 F1.10,42,Ayman Arafa,True
+PHY 113_4_L0,1,PHY 113,4,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B17-G01,44,Adel Shakal,True
+PHY 113_4_L1,1,PHY 113,4,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B17-G16,46,Adel Fathy,True
+CSC 111_5_L0,1,CSC 111,5,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B18-G01,18,Mariem Nagy,True
+CSC 111_5_L1,1,CSC 111,5,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B18-G05,19,Reda Elbasiony,True
+ECE 111_5_L0,1,ECE 111,5,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B17-G22,47,Mofareq El Qotren,True
+ECE 111_5_L1,1,ECE 111,5,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B07 F1.04,29,Ahmed Allam,True
+LRA 101_5_L0,1,LRA 101,5,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 101_5_L1,1,LRA 101,5,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 104_5_L0,1,LRA 104,5,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B07 G01,35,Hamada El Safroot,True
+LRA 104_5_L1,1,LRA 104,5,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B07 G01,35,Hamada El Safroot,True
+LRA 105_5_L0,1,LRA 105,5,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B18 F1.1,36,Shamshoon,True
+LRA 105_5_L1,1,LRA 105,5,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B18 F1.1,36,Shamshoon,True
+LRA 401_5_L0,1,LRA 401,5,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B07 F1.01,38,Eman Refaat,True
+MTH 111_5_L0,1,MTH 111,5,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B18 F1.5,43,Abo Rehab,True
+MTH 111_5_L1,1,MTH 111,5,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B18 G08,45,Ahmed Zakaria,True
+PHY 113_5_L0,1,PHY 113,5,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B07 G12,31,Mowahed El Qotren,True
+PHY 113_5_L1,1,PHY 113,5,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B17.G17,44,Adel Shakal,True
+CSC 111_6_L0,1,CSC 111,6,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B18 G09,15,Mariam Ismael,True
+CSC 111_6_L1,1,CSC 111,6,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B18 G13,16,Nour Akram,True
+ECE 111_6_L0,1,ECE 111,6,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B17-G01,30,Sameh Sherif,True
+ECE 111_6_L1,1,ECE 111,6,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B17-G16,47,Mofareq El Qotren,True
+LRA 101_6_L0,1,LRA 101,6,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 101_6_L1,1,LRA 101,6,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 104_6_L0,1,LRA 104,6,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B07 G01,35,Hamada El Safroot,True
+LRA 104_6_L1,1,LRA 104,6,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B07 G01,35,Hamada El Safroot,True
+LRA 105_6_L0,1,LRA 105,6,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B18 F1.1,36,Shamshoon,True
+LRA 105_6_L1,1,LRA 105,6,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B18 F1.1,36,Shamshoon,True
+LRA 401_6_L0,1,LRA 401,6,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B07 F1.02,39,Miyazawa,True
+MTH 111_6_L0,1,MTH 111,6,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B18 F1.10,42,Ayman Arafa,True
+MTH 111_6_L1,1,MTH 111,6,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B18 F1.5,43,Abo Rehab,True
+PHY 113_6_L0,1,PHY 113,6,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B17-G22,46,Adel Fathy,True
+PHY 113_6_L1,1,PHY 113,6,mon_9:00_10:30,Monday,09:00:00,10:30:00,B07 F1.04,31,Mowahed El Qotren,True
+CSC 111_7_L0,1,CSC 111,7,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B18-G01,17,Nada Essam,True
+CSC 111_7_L1,1,CSC 111,7,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B18-G05,18,Mariem Nagy,True
+ECE 111_7_L0,1,ECE 111,7,mon_9:00_10:30,Monday,09:00:00,10:30:00,B07 G12,29,Ahmed Allam,True
+ECE 111_7_L1,1,ECE 111,7,mon_9:00_10:30,Monday,09:00:00,10:30:00,B17.G17,30,Sameh Sherif,True
+LRA 101_7_L0,1,LRA 101,7,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 101_7_L1,1,LRA 101,7,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 104_7_L0,1,LRA 104,7,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B07 G01,35,Hamada El Safroot,True
+LRA 104_7_L1,1,LRA 104,7,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B07 G01,35,Hamada El Safroot,True
+LRA 105_7_L0,1,LRA 105,7,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B18 F1.1,36,Shamshoon,True
+LRA 105_7_L1,1,LRA 105,7,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B18 F1.1,36,Shamshoon,True
+LRA 401_7_L0,1,LRA 401,7,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B07 F1.20,40,Rika,True
+MTH 111_7_L0,1,MTH 111,7,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B18 G08,45,Ahmed Zakaria,True
+MTH 111_7_L1,1,MTH 111,7,mon_9:00_10:30,Monday,09:00:00,10:30:00,B18 F1.10,42,Ayman Arafa,True
+PHY 113_7_L0,1,PHY 113,7,mon_9:00_10:30,Monday,09:00:00,10:30:00,B17-G01,44,Adel Shakal,True
+PHY 113_7_L1,1,PHY 113,7,mon_9:00_10:30,Monday,09:00:00,10:30:00,B17-G16,46,Adel Fathy,True
+CSC 111_8_L0,1,CSC 111,8,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B18-G14,19,Reda Elbasiony,True
+CSC 111_8_L1,1,CSC 111,8,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B18 G09,15,Mariam Ismael,True
+ECE 111_8_L0,1,ECE 111,8,mon_9:00_10:30,Monday,09:00:00,10:30:00,B17-G22,47,Mofareq El Qotren,True
+ECE 111_8_L1,1,ECE 111,8,mon_10:45_12:15,Monday,10:45:00,12:15:00,B07 F1.04,29,Ahmed Allam,True
+LRA 101_8_L0,1,LRA 101,8,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 101_8_L1,1,LRA 101,8,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 104_8_L0,1,LRA 104,8,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B07 G01,35,Hamada El Safroot,True
+LRA 104_8_L1,1,LRA 104,8,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B07 G01,35,Hamada El Safroot,True
+LRA 105_8_L0,1,LRA 105,8,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B18 F1.1,36,Shamshoon,True
+LRA 105_8_L1,1,LRA 105,8,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B18 F1.1,36,Shamshoon,True
+LRA 401_8_L0,1,LRA 401,8,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B07 F1.21,41,Sato,True
+MTH 111_8_L0,1,MTH 111,8,mon_9:00_10:30,Monday,09:00:00,10:30:00,B18 F1.5,43,Abo Rehab,True
+MTH 111_8_L1,1,MTH 111,8,mon_9:00_10:30,Monday,09:00:00,10:30:00,B18 G08,45,Ahmed Zakaria,True
+PHY 113_8_L0,1,PHY 113,8,mon_10:45_12:15,Monday,10:45:00,12:15:00,B07 G12,31,Mowahed El Qotren,True
+PHY 113_8_L1,1,PHY 113,8,mon_10:45_12:15,Monday,10:45:00,12:15:00,B17.G17,44,Adel Shakal,True
+CSC 111_9_L0,1,CSC 111,9,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B18 G13,16,Nour Akram,True
+CSC 111_9_L1,1,CSC 111,9,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B18-G01,17,Nada Essam,True
+ECE 111_9_L0,1,ECE 111,9,mon_10:45_12:15,Monday,10:45:00,12:15:00,B17-G01,30,Sameh Sherif,True
+ECE 111_9_L1,1,ECE 111,9,mon_10:45_12:15,Monday,10:45:00,12:15:00,B17-G16,47,Mofareq El Qotren,True
+LRA 101_9_L0,1,LRA 101,9,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 101_9_L1,1,LRA 101,9,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B07 F1.24,34,Sherine Elmotasem,True
+LRA 104_9_L0,1,LRA 104,9,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B07 G01,35,Hamada El Safroot,True
+LRA 104_9_L1,1,LRA 104,9,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B07 G01,35,Hamada El Safroot,True
+LRA 105_9_L0,1,LRA 105,9,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B18 F1.1,36,Shamshoon,True
+LRA 105_9_L1,1,LRA 105,9,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B18 F1.1,36,Shamshoon,True
+LRA 401_9_L0,1,LRA 401,9,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B07 F1.01,38,Eman Refaat,True
+MTH 111_9_L0,1,MTH 111,9,mon_10:45_12:15,Monday,10:45:00,12:15:00,B18 F1.10,42,Ayman Arafa,True
+MTH 111_9_L1,1,MTH 111,9,mon_10:45_12:15,Monday,10:45:00,12:15:00,B18 F1.5,43,Abo Rehab,True
+PHY 113_9_L0,1,PHY 113,9,mon_10:45_12:15,Monday,10:45:00,12:15:00,B17-G22,46,Adel Fathy,True
+PHY 113_9_L1,1,PHY 113,9,mon_12:30_2:00,Monday,12:30:00,02:00:00,B07 F1.04,31,Mowahed El Qotren,True
+ACM 215_1_L0,2,ACM 215,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,Theater B07,32,Ahmed Abdel-Malk,True
+ACM 215_1_L1,2,ACM 215,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,Theater B08,33,Ayan w Mayet,True
+CNC 111_1_L0,2,CNC 111,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B18-G14,7,Heba,True
+CNC 111_1_L1,2,CNC 111,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,B18-G17,8,Menna Hamdy,True
+CSC 114_1_L0,2,CSC 114,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,COE PHY LAB,20,Marghany Hassan,True
+CSC 114_1_L1,2,CSC 114,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,G17-G01,21,Salma Alashry,True
+CSC 211_1_L0,2,CSC 211,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,Theater B09,22,Ahmed Arafa,True
+CSC 211_1_L1,2,CSC 211,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,Theater B10,23,Menna magdy,True
+CSE 214_1_L0,2,CSE 214,1,sun_9:00_10:30,Sunday,09:00:00,10:30:00,Theater B25 F1.19,26,Heba Abdelkader,True
+CSE 214_1_L1,2,CSE 214,1,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B18-G14,26,Heba Abdelkader,True
+LRA 306_1_L0,2,LRA 306,1,sun_10:45_12:15,Sunday,10:45:00,12:15:00,Theater B07,37,LBA,True
+LRA 306_1_L1,2,LRA 306,1,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B18-G20,37,LBA,True
+LRA 403_1_L0,2,LRA 403,1,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B07 F1.02,39,Miyazawa,True
+MTH 212_1_L0,2,MTH 212,1,mon_10:45_12:15,Monday,10:45:00,12:15:00,B18 G08,45,Ahmed Zakaria,True
+MTH 212_1_L1,2,MTH 212,1,mon_12:30_2:00,Monday,12:30:00,02:00:00,B18 F1.10,42,Ayman Arafa,True
+ACM 215_2_L0,2,ACM 215,2,sun_10:45_12:15,Sunday,10:45:00,12:15:00,Theater B08,32,Ahmed Abdel-Malk,True
+ACM 215_2_L1,2,ACM 215,2,sun_10:45_12:15,Sunday,10:45:00,12:15:00,Theater B09,33,Ayan w Mayet,True
+CNC 111_2_L0,2,CNC 111,2,sun_10:45_12:15,Sunday,10:45:00,12:15:00,B18-G17,7,Heba,True
+CNC 111_2_L1,2,CNC 111,2,sun_10:45_12:15,Sunday,10:45:00,12:15:00,COE PHY LAB,8,Menna Hamdy,True
+CSC 114_2_L0,2,CSC 114,2,sun_10:45_12:15,Sunday,10:45:00,12:15:00,G17-G01,20,Marghany Hassan,True
+CSC 114_2_L1,2,CSC 114,2,sun_10:45_12:15,Sunday,10:45:00,12:15:00,Theater B10,21,Salma Alashry,True
+CSC 211_2_L0,2,CSC 211,2,sun_10:45_12:15,Sunday,10:45:00,12:15:00,Theater B25 F1.19,22,Ahmed Arafa,True
+CSC 211_2_L1,2,CSC 211,2,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B18-G17,22,Ahmed Arafa,True
+CSE 214_2_L0,2,CSE 214,2,sun_12:30_2:00,Sunday,12:30:00,02:00:00,COE PHY LAB,26,Heba Abdelkader,True
+CSE 214_2_L1,2,CSE 214,2,sun_12:30_2:00,Sunday,12:30:00,02:00:00,G17-G01,27,Mostafa Soliman,True
+LRA 306_2_L0,2,LRA 306,2,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B18-G20,37,LBA,True
+LRA 306_2_L1,2,LRA 306,2,mon_9:00_10:30,Monday,09:00:00,10:30:00,B18 G09,37,LBA,True
+LRA 403_2_L0,2,LRA 403,2,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B07 F1.20,40,Rika,True
+MTH 212_2_L0,2,MTH 212,2,mon_12:30_2:00,Monday,12:30:00,02:00:00,B18 F1.5,43,Abo Rehab,True
+MTH 212_2_L1,2,MTH 212,2,mon_12:30_2:00,Monday,12:30:00,02:00:00,B18 G08,44,Adel Shakal,True
+ACM 215_3_L0,2,ACM 215,3,sun_12:30_2:00,Sunday,12:30:00,02:00:00,Theater B07,32,Ahmed Abdel-Malk,True
+ACM 215_3_L1,2,ACM 215,3,sun_12:30_2:00,Sunday,12:30:00,02:00:00,Theater B08,33,Ayan w Mayet,True
+CNC 111_3_L0,2,CNC 111,3,sun_12:30_2:00,Sunday,12:30:00,02:00:00,Theater B09,7,Heba,True
+CNC 111_3_L1,2,CNC 111,3,sun_12:30_2:00,Sunday,12:30:00,02:00:00,Theater B10,8,Menna Hamdy,True
+CSC 114_3_L0,2,CSC 114,3,sun_12:30_2:00,Sunday,12:30:00,02:00:00,Theater B25 F1.19,20,Marghany Hassan,True
+CSC 114_3_L1,2,CSC 114,3,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B18-G05,20,Marghany Hassan,True
+CSC 211_3_L0,2,CSC 211,3,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B18-G14,22,Ahmed Arafa,True
+CSC 211_3_L1,2,CSC 211,3,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B18-G17,23,Menna magdy,True
+CSE 214_3_L0,2,CSE 214,3,sun_2:15_3:45,Sunday,02:15:00,03:45:00,COE PHY LAB,26,Heba Abdelkader,True
+CSE 214_3_L1,2,CSE 214,3,sun_2:15_3:45,Sunday,02:15:00,03:45:00,G17-G01,27,Mostafa Soliman,True
+LRA 306_3_L0,2,LRA 306,3,mon_10:45_12:15,Monday,10:45:00,12:15:00,B18 G09,37,LBA,True
+LRA 306_3_L1,2,LRA 306,3,mon_12:30_2:00,Monday,12:30:00,02:00:00,B18 G09,37,LBA,True
+LRA 403_3_L0,2,LRA 403,3,sun_12:30_2:00,Sunday,12:30:00,02:00:00,B07 F1.21,41,Sato,True
+MTH 212_3_L0,2,MTH 212,3,mon_12:30_2:00,Monday,12:30:00,02:00:00,B18 G13,45,Ahmed Zakaria,True
+MTH 212_3_L1,2,MTH 212,3,mon_2:15_3:45,Monday,02:15:00,03:45:00,B18 F1.10,42,Ayman Arafa,True
+ACM 215_4_L0,2,ACM 215,4,sun_2:15_3:45,Sunday,02:15:00,03:45:00,Theater B07,32,Ahmed Abdel-Malk,True
+ACM 215_4_L1,2,ACM 215,4,sun_2:15_3:45,Sunday,02:15:00,03:45:00,Theater B08,33,Ayan w Mayet,True
+CNC 111_4_L0,2,CNC 111,4,sun_2:15_3:45,Sunday,02:15:00,03:45:00,Theater B09,7,Heba,True
+CNC 111_4_L1,2,CNC 111,4,sun_2:15_3:45,Sunday,02:15:00,03:45:00,Theater B10,8,Menna Hamdy,True
+CSC 114_4_L0,2,CSC 114,4,sun_2:15_3:45,Sunday,02:15:00,03:45:00,Theater B25 F1.19,21,Salma Alashry,True
+CSC 114_4_L1,2,CSC 114,4,mon_9:00_10:30,Monday,09:00:00,10:30:00,B18 G13,20,Marghany Hassan,True
+CSC 211_4_L0,2,CSC 211,4,mon_9:00_10:30,Monday,09:00:00,10:30:00,B18-G01,22,Ahmed Arafa,True
+CSC 211_4_L1,2,CSC 211,4,mon_9:00_10:30,Monday,09:00:00,10:30:00,B18-G05,23,Menna magdy,True
+CSE 214_4_L0,2,CSE 214,4,mon_9:00_10:30,Monday,09:00:00,10:30:00,B18-G14,26,Heba Abdelkader,True
+CSE 214_4_L1,2,CSE 214,4,mon_9:00_10:30,Monday,09:00:00,10:30:00,B18-G17,27,Mostafa Soliman,True
+LRA 306_4_L0,2,LRA 306,4,mon_2:15_3:45,Monday,02:15:00,03:45:00,B18 F1.5,37,LBA,True
+LRA 306_4_L1,2,LRA 306,4,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B18 F1.10,37,LBA,True
+LRA 403_4_L0,2,LRA 403,4,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B07 F1.01,38,Eman Refaat,True
+MTH 212_4_L0,2,MTH 212,4,mon_2:15_3:45,Monday,02:15:00,03:45:00,B18 G08,43,Abo Rehab,True
+MTH 212_4_L1,2,MTH 212,4,mon_2:15_3:45,Monday,02:15:00,03:45:00,B18 G09,44,Adel Shakal,True
+ACM 215_5_L0,2,ACM 215,5,mon_9:00_10:30,Monday,09:00:00,10:30:00,B18-G20,32,Ahmed Abdel-Malk,True
+ACM 215_5_L1,2,ACM 215,5,mon_9:00_10:30,Monday,09:00:00,10:30:00,Theater B07,33,Ayan w Mayet,True
+CNC 111_5_L0,2,CNC 111,5,mon_9:00_10:30,Monday,09:00:00,10:30:00,COE PHY LAB,7,Heba,True
+CNC 111_5_L1,2,CNC 111,5,mon_9:00_10:30,Monday,09:00:00,10:30:00,G17-G01,8,Menna Hamdy,True
+CSC 114_5_L0,2,CSC 114,5,mon_9:00_10:30,Monday,09:00:00,10:30:00,Theater B08,21,Salma Alashry,True
+CSC 114_5_L1,2,CSC 114,5,mon_10:45_12:15,Monday,10:45:00,12:15:00,B18 G13,20,Marghany Hassan,True
+CSC 211_5_L0,2,CSC 211,5,mon_9:00_10:30,Monday,09:00:00,10:30:00,Theater B09,24,Nada Ahmed,True
+CSC 211_5_L1,2,CSC 211,5,mon_10:45_12:15,Monday,10:45:00,12:15:00,B18-G01,22,Ahmed Arafa,True
+CSE 214_5_L0,2,CSE 214,5,mon_9:00_10:30,Monday,09:00:00,10:30:00,Theater B10,28,Omnya Ramadan,True
+CSE 214_5_L1,2,CSE 214,5,mon_10:45_12:15,Monday,10:45:00,12:15:00,B18-G05,26,Heba Abdelkader,True
+LRA 306_5_L0,2,LRA 306,5,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B18 F1.10,37,LBA,True
+LRA 306_5_L1,2,LRA 306,5,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B18 F1.10,37,LBA,True
+LRA 403_5_L0,2,LRA 403,5,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B07 F1.02,39,Miyazawa,True
+MTH 212_5_L0,2,MTH 212,5,mon_2:15_3:45,Monday,02:15:00,03:45:00,B18 G13,45,Ahmed Zakaria,True
+MTH 212_5_L1,2,MTH 212,5,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B18 F1.5,42,Ayman Arafa,True
+ACM 215_6_L0,2,ACM 215,6,mon_10:45_12:15,Monday,10:45:00,12:15:00,B18-G20,32,Ahmed Abdel-Malk,True
+ACM 215_6_L1,2,ACM 215,6,mon_10:45_12:15,Monday,10:45:00,12:15:00,Theater B07,33,Ayan w Mayet,True
+CNC 111_6_L0,2,CNC 111,6,mon_9:00_10:30,Monday,09:00:00,10:30:00,Theater B25 F1.19,9,Ahmed Anter,True
+CNC 111_6_L1,2,CNC 111,6,mon_10:45_12:15,Monday,10:45:00,12:15:00,B18-G14,7,Heba,True
+CSC 114_6_L0,2,CSC 114,6,mon_10:45_12:15,Monday,10:45:00,12:15:00,B18-G17,21,Salma Alashry,True
+CSC 114_6_L1,2,CSC 114,6,mon_12:30_2:00,Monday,12:30:00,02:00:00,B07 G12,20,Marghany Hassan,True
+CSC 211_6_L0,2,CSC 211,6,mon_10:45_12:15,Monday,10:45:00,12:15:00,COE PHY LAB,23,Menna magdy,True
+CSC 211_6_L1,2,CSC 211,6,mon_10:45_12:15,Monday,10:45:00,12:15:00,G17-G01,24,Nada Ahmed,True
+CSE 214_6_L0,2,CSE 214,6,mon_10:45_12:15,Monday,10:45:00,12:15:00,Theater B08,27,Mostafa Soliman,True
+CSE 214_6_L1,2,CSE 214,6,mon_10:45_12:15,Monday,10:45:00,12:15:00,Theater B09,28,Omnya Ramadan,True
+LRA 306_6_L0,2,LRA 306,6,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B18 F1.10,37,LBA,True
+LRA 306_6_L1,2,LRA 306,6,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B18 F1.10,37,LBA,True
+LRA 403_6_L0,2,LRA 403,6,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B07 F1.20,40,Rika,True
+MTH 212_6_L0,2,MTH 212,6,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B18 G08,43,Abo Rehab,True
+MTH 212_6_L1,2,MTH 212,6,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B18 G09,44,Adel Shakal,True
+ACM 215_7_L0,2,ACM 215,7,mon_12:30_2:00,Monday,12:30:00,02:00:00,B18-G20,32,Ahmed Abdel-Malk,True
+ACM 215_7_L1,2,ACM 215,7,mon_12:30_2:00,Monday,12:30:00,02:00:00,Theater B07,33,Ayan w Mayet,True
+CNC 111_7_L0,2,CNC 111,7,mon_10:45_12:15,Monday,10:45:00,12:15:00,Theater B10,8,Menna Hamdy,True
+CNC 111_7_L1,2,CNC 111,7,mon_10:45_12:15,Monday,10:45:00,12:15:00,Theater B25 F1.19,9,Ahmed Anter,True
+CSC 114_7_L0,2,CSC 114,7,mon_12:30_2:00,Monday,12:30:00,02:00:00,B17.G17,21,Salma Alashry,True
+CSC 114_7_L1,2,CSC 114,7,mon_2:15_3:45,Monday,02:15:00,03:45:00,B07 F1.04,20,Marghany Hassan,True
+CSC 211_7_L0,2,CSC 211,7,mon_12:30_2:00,Monday,12:30:00,02:00:00,B17-G01,22,Ahmed Arafa,True
+CSC 211_7_L1,2,CSC 211,7,mon_12:30_2:00,Monday,12:30:00,02:00:00,B17-G16,23,Menna magdy,True
+CSE 214_7_L0,2,CSE 214,7,mon_12:30_2:00,Monday,12:30:00,02:00:00,B17-G22,26,Heba Abdelkader,True
+CSE 214_7_L1,2,CSE 214,7,mon_12:30_2:00,Monday,12:30:00,02:00:00,B18-G01,27,Mostafa Soliman,True
+LRA 306_7_L0,2,LRA 306,7,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B18 F1.10,37,LBA,True
+LRA 306_7_L1,2,LRA 306,7,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B18 F1.10,37,LBA,True
+LRA 403_7_L0,2,LRA 403,7,sun_2:15_3:45,Sunday,02:15:00,03:45:00,B07 F1.21,41,Sato,True
+MTH 212_7_L0,2,MTH 212,7,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B18 G13,45,Ahmed Zakaria,True
+MTH 212_7_L1,2,MTH 212,7,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B18 F1.5,42,Ayman Arafa,True
+ACM 215_8_L0,2,ACM 215,8,mon_12:30_2:00,Monday,12:30:00,02:00:00,Theater B08,47,Mofareq El Qotren,True
+ACM 215_8_L1,2,ACM 215,8,mon_2:15_3:45,Monday,02:15:00,03:45:00,B18-G20,31,Mowahed El Qotren,True
+CNC 111_8_L0,2,CNC 111,8,mon_12:30_2:00,Monday,12:30:00,02:00:00,B18-G05,7,Heba,True
+CNC 111_8_L1,2,CNC 111,8,mon_12:30_2:00,Monday,12:30:00,02:00:00,B18-G14,8,Menna Hamdy,True
+CSC 114_8_L0,2,CSC 114,8,mon_2:15_3:45,Monday,02:15:00,03:45:00,B07 G12,21,Salma Alashry,True
+CSC 114_8_L1,2,CSC 114,8,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B07 F1.04,20,Marghany Hassan,True
+CSC 211_8_L0,2,CSC 211,8,mon_12:30_2:00,Monday,12:30:00,02:00:00,B18-G17,24,Nada Ahmed,True
+CSC 211_8_L1,2,CSC 211,8,mon_2:15_3:45,Monday,02:15:00,03:45:00,B17.G17,22,Ahmed Arafa,True
+CSE 214_8_L0,2,CSE 214,8,mon_12:30_2:00,Monday,12:30:00,02:00:00,COE PHY LAB,28,Omnya Ramadan,True
+CSE 214_8_L1,2,CSE 214,8,mon_2:15_3:45,Monday,02:15:00,03:45:00,B17-G01,26,Heba Abdelkader,True
+LRA 306_8_L0,2,LRA 306,8,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B18 F1.10,37,LBA,True
+LRA 306_8_L1,2,LRA 306,8,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B18 F1.10,37,LBA,True
+LRA 403_8_L0,2,LRA 403,8,mon_9:00_10:30,Monday,09:00:00,10:30:00,B07 F1.01,38,Eman Refaat,True
+MTH 212_8_L0,2,MTH 212,8,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B18 G08,43,Abo Rehab,True
+MTH 212_8_L1,2,MTH 212,8,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B18 G09,44,Adel Shakal,True
+ACM 215_9_L0,2,ACM 215,9,mon_2:15_3:45,Monday,02:15:00,03:45:00,Theater B07,32,Ahmed Abdel-Malk,True
+ACM 215_9_L1,2,ACM 215,9,mon_2:15_3:45,Monday,02:15:00,03:45:00,Theater B08,33,Ayan w Mayet,True
+CNC 111_9_L0,2,CNC 111,9,mon_12:30_2:00,Monday,12:30:00,02:00:00,G17-G01,9,Ahmed Anter,True
+CNC 111_9_L1,2,CNC 111,9,mon_12:30_2:00,Monday,12:30:00,02:00:00,Theater B09,10,Omnia Shehata,True
+CSC 114_9_L0,2,CSC 114,9,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B07 G12,21,Salma Alashry,True
+CSC 114_9_L1,2,CSC 114,9,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B07 F1.04,20,Marghany Hassan,True
+CSC 211_9_L0,2,CSC 211,9,mon_2:15_3:45,Monday,02:15:00,03:45:00,B17-G16,23,Menna magdy,True
+CSC 211_9_L1,2,CSC 211,9,mon_2:15_3:45,Monday,02:15:00,03:45:00,B17-G22,24,Nada Ahmed,True
+CSE 214_9_L0,2,CSE 214,9,mon_2:15_3:45,Monday,02:15:00,03:45:00,B18-G01,27,Mostafa Soliman,True
+CSE 214_9_L1,2,CSE 214,9,mon_2:15_3:45,Monday,02:15:00,03:45:00,B18-G05,28,Omnya Ramadan,True
+LRA 306_9_L0,2,LRA 306,9,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B18 F1.10,37,LBA,True
+LRA 306_9_L1,2,LRA 306,9,thu_12:30_2:00,Thursday,12:30:00,02:00:00,B07 F1.24,37,LBA,True
+LRA 403_9_L0,2,LRA 403,9,mon_9:00_10:30,Monday,09:00:00,10:30:00,B07 F1.02,39,Miyazawa,True
+MTH 212_9_L0,2,MTH 212,9,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B18 G13,45,Ahmed Zakaria,True
+MTH 212_9_L1,2,MTH 212,9,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B18 F1.5,42,Ayman Arafa,True
+AID 311_1_L0,3,AID 311,1,mon_12:30_2:00,Monday,12:30:00,02:00:00,Theater B10,1,Salma Waleed,True
+AID 311_1_L1,3,AID 311,1,mon_2:15_3:45,Monday,02:15:00,03:45:00,B18-G14,1,Salma Waleed,True
+AID 312_1_L0,3,AID 312,1,mon_12:30_2:00,Monday,12:30:00,02:00:00,Theater B25 F1.19,2,Ahmed Bayumi,True
+AID 312_1_L1,3,AID 312,1,mon_2:15_3:45,Monday,02:15:00,03:45:00,B18-G17,2,Ahmed Bayumi,True
+CNC 311_1_L0,3,CNC 311,1,mon_2:15_3:45,Monday,02:15:00,03:45:00,COE PHY LAB,11,Nada Hamdy,True
+CNC 311_1_L1,3,CNC 311,1,mon_2:15_3:45,Monday,02:15:00,03:45:00,G17-G01,12,Samir Ahmed,True
+CNC 314_1_L0,3,CNC 314,1,mon_2:15_3:45,Monday,02:15:00,03:45:00,Theater B09,3,Nourhan Waleed,True
+CNC 314_1_L1,3,CNC 314,1,mon_2:15_3:45,Monday,02:15:00,03:45:00,Theater B10,14,Mohamed Issa,True
+CSC 317_1_L0,3,CSC 317,1,mon_2:15_3:45,Monday,02:15:00,03:45:00,Theater B25 F1.19,25,Hataba,True
+CSC 317_1_L1,3,CSC 317,1,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B17.G17,23,Menna magdy,True
+ECE 324_1_L0,3,ECE 324,1,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B17-G01,32,Ahmed Abdel-Malk,True
+ECE 324_1_L1,3,ECE 324,1,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B17-G16,33,Ayan w Mayet,True
+AID 311_2_L0,3,AID 311,2,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B17-G22,1,Salma Waleed,True
+AID 311_2_L1,3,AID 311,2,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B18-G01,9,Ahmed Anter,True
+AID 312_2_L0,3,AID 312,2,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B18-G05,2,Ahmed Bayumi,True
+AID 312_2_L1,3,AID 312,2,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B18-G14,3,Nourhan Waleed,True
+CNC 311_2_L0,3,CNC 311,2,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B18-G17,11,Nada Hamdy,True
+CNC 311_2_L1,3,CNC 311,2,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,B18-G20,12,Samir Ahmed,True
+CNC 314_2_L0,3,CNC 314,2,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,COE PHY LAB,14,Mohamed Issa,True
+CNC 314_2_L1,3,CNC 314,2,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B07 G12,3,Nourhan Waleed,True
+CSC 317_2_L0,3,CSC 317,2,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,G17-G01,24,Nada Ahmed,True
+CSC 317_2_L1,3,CSC 317,2,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,Theater B07,25,Hataba,True
+ECE 324_2_L0,3,ECE 324,2,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B17.G17,32,Ahmed Abdel-Malk,True
+ECE 324_2_L1,3,ECE 324,2,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B17-G01,33,Ayan w Mayet,True
+AID 311_3_L0,3,AID 311,3,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B17-G16,1,Salma Waleed,True
+AID 311_3_L1,3,AID 311,3,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B17-G22,9,Ahmed Anter,True
+AID 312_3_L0,3,AID 312,3,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B18-G01,2,Ahmed Bayumi,True
+AID 312_3_L1,3,AID 312,3,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B07 F1.04,1,Salma Waleed,True
+CNC 311_3_L0,3,CNC 311,3,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,Theater B08,13,Fatma Elsayed,True
+CNC 311_3_L1,3,CNC 311,3,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B18-G05,11,Nada Hamdy,True
+CNC 314_3_L0,3,CNC 314,3,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B18-G14,14,Mohamed Issa,True
+CNC 314_3_L1,3,CNC 314,3,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B18-G17,21,Salma Alashry,True
+CSC 317_3_L0,3,CSC 317,3,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,B18-G20,23,Menna magdy,True
+CSC 317_3_L1,3,CSC 317,3,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,COE PHY LAB,24,Nada Ahmed,True
+ECE 324_3_L0,3,ECE 324,3,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B07 G12,32,Ahmed Abdel-Malk,True
+ECE 324_3_L1,3,ECE 324,3,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B17.G17,33,Ayan w Mayet,True
+AID 311_4_L0,3,AID 311,4,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B17-G01,9,Ahmed Anter,True
+AID 311_4_L1,3,AID 311,4,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B07 F1.04,1,Salma Waleed,True
+AID 312_4_L0,3,AID 312,4,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B17-G16,2,Ahmed Bayumi,True
+AID 312_4_L1,3,AID 312,4,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B17-G22,3,Nourhan Waleed,True
+CNC 311_4_L0,3,CNC 311,4,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,G17-G01,12,Samir Ahmed,True
+CNC 311_4_L1,3,CNC 311,4,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,Theater B07,13,Fatma Elsayed,True
+CNC 314_4_L0,3,CNC 314,4,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B18 G08,14,Mohamed Issa,True
+CNC 314_4_L1,3,CNC 314,4,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B18 G09,21,Salma Alashry,True
+CSC 317_4_L0,3,CSC 317,4,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,Theater B08,25,Hataba,True
+CSC 317_4_L1,3,CSC 317,4,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B18 G13,23,Menna magdy,True
+ECE 324_4_L0,3,ECE 324,4,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B07 G12,32,Ahmed Abdel-Malk,True
+ECE 324_4_L1,3,ECE 324,4,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B17.G17,33,Ayan w Mayet,True
+AID 311_5_L0,3,AID 311,5,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B17-G01,9,Ahmed Anter,True
+AID 311_5_L1,3,AID 311,5,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B07 F1.04,1,Salma Waleed,True
+AID 312_5_L0,3,AID 312,5,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B17-G16,2,Ahmed Bayumi,True
+AID 312_5_L1,3,AID 312,5,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B17-G22,3,Nourhan Waleed,True
+CNC 311_5_L0,3,CNC 311,5,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B18-G01,11,Nada Hamdy,True
+CNC 311_5_L1,3,CNC 311,5,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B18-G05,12,Samir Ahmed,True
+CNC 314_5_L0,3,CNC 314,5,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B18 F1.5,14,Mohamed Issa,True
+CNC 314_5_L1,3,CNC 314,5,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B18 G08,21,Salma Alashry,True
+CSC 317_5_L0,3,CSC 317,5,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B18-G14,24,Nada Ahmed,True
+CSC 317_5_L1,3,CSC 317,5,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B18-G17,25,Hataba,True
+ECE 324_5_L0,3,ECE 324,5,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B07 G12,32,Ahmed Abdel-Malk,True
+ECE 324_5_L1,3,ECE 324,5,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B17.G17,33,Ayan w Mayet,True
+AID 311_6_L0,3,AID 311,6,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B17-G01,9,Ahmed Anter,True
+AID 311_6_L1,3,AID 311,6,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B07 F1.04,1,Salma Waleed,True
+AID 312_6_L0,3,AID 312,6,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B17-G16,2,Ahmed Bayumi,True
+AID 312_6_L1,3,AID 312,6,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B17-G22,3,Nourhan Waleed,True
+CNC 311_6_L0,3,CNC 311,6,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,B18-G20,13,Fatma Elsayed,True
+CNC 311_6_L1,3,CNC 311,6,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B18 G09,11,Nada Hamdy,True
+CNC 314_6_L0,3,CNC 314,6,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B18 F1.5,14,Mohamed Issa,True
+CNC 314_6_L1,3,CNC 314,6,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B18 G08,21,Salma Alashry,True
+CSC 317_6_L0,3,CSC 317,6,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B18 G13,23,Menna magdy,True
+CSC 317_6_L1,3,CSC 317,6,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B18-G01,24,Nada Ahmed,True
+ECE 324_6_L0,3,ECE 324,6,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B07 G12,32,Ahmed Abdel-Malk,True
+ECE 324_6_L1,3,ECE 324,6,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B17.G17,33,Ayan w Mayet,True
+AID 311_7_L0,3,AID 311,7,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B17-G01,9,Ahmed Anter,True
+AID 311_7_L1,3,AID 311,7,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B07 F1.04,1,Salma Waleed,True
+AID 312_7_L0,3,AID 312,7,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B17-G16,2,Ahmed Bayumi,True
+AID 312_7_L1,3,AID 312,7,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B17-G22,3,Nourhan Waleed,True
+CNC 311_7_L0,3,CNC 311,7,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B18-G05,12,Samir Ahmed,True
+CNC 311_7_L1,3,CNC 311,7,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B18-G14,13,Fatma Elsayed,True
+CNC 314_7_L0,3,CNC 314,7,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B18 F1.5,14,Mohamed Issa,True
+CNC 314_7_L1,3,CNC 314,7,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B18 G08,21,Salma Alashry,True
+CSC 317_7_L0,3,CSC 317,7,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B18-G17,25,Hataba,True
+CSC 317_7_L1,3,CSC 317,7,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B18 G09,23,Menna magdy,True
+ECE 324_7_L0,3,ECE 324,7,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B07 G12,32,Ahmed Abdel-Malk,True
+ECE 324_7_L1,3,ECE 324,7,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B17.G17,33,Ayan w Mayet,True
+AID 311_8_L0,3,AID 311,8,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B17-G01,9,Ahmed Anter,True
+AID 311_8_L1,3,AID 311,8,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B07 F1.04,1,Salma Waleed,True
+AID 312_8_L0,3,AID 312,8,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B17-G16,2,Ahmed Bayumi,True
+AID 312_8_L1,3,AID 312,8,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B17-G22,3,Nourhan Waleed,True
+CNC 311_8_L0,3,CNC 311,8,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B18 G13,11,Nada Hamdy,True
+CNC 311_8_L1,3,CNC 311,8,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B18-G01,12,Samir Ahmed,True
+CNC 314_8_L0,3,CNC 314,8,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B18 F1.5,14,Mohamed Issa,True
+CNC 314_8_L1,3,CNC 314,8,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B18 G08,21,Salma Alashry,True
+CSC 317_8_L0,3,CSC 317,8,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B18-G05,24,Nada Ahmed,True
+CSC 317_8_L1,3,CSC 317,8,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B18-G14,25,Hataba,True
+ECE 324_8_L0,3,ECE 324,8,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B07 G12,32,Ahmed Abdel-Malk,True
+ECE 324_8_L1,3,ECE 324,8,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B17.G17,33,Ayan w Mayet,True
+AID 311_9_L0,3,AID 311,9,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B17-G01,9,Ahmed Anter,True
+AID 311_9_L1,3,AID 311,9,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B07 F1.04,1,Salma Waleed,True
+AID 312_9_L0,3,AID 312,9,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B17-G16,2,Ahmed Bayumi,True
+AID 312_9_L1,3,AID 312,9,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B17-G22,3,Nourhan Waleed,True
+CNC 311_9_L0,3,CNC 311,9,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B18-G17,13,Fatma Elsayed,True
+CNC 311_9_L1,3,CNC 311,9,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B18 G09,11,Nada Hamdy,True
+CNC 314_9_L0,3,CNC 314,9,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B18 F1.5,14,Mohamed Issa,True
+CNC 314_9_L1,3,CNC 314,9,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B18 G08,21,Salma Alashry,True
+CSC 317_9_L0,3,CSC 317,9,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B18 G13,23,Menna magdy,True
+CSC 317_9_L1,3,CSC 317,9,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B18-G01,24,Nada Ahmed,True
+ECE 324_9_L0,3,ECE 324,9,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B07 G12,32,Ahmed Abdel-Malk,True
+ECE 324_9_L1,3,ECE 324,9,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B17.G17,33,Ayan w Mayet,True
+AID 321_1_L0,4,AID 321,1,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,Theater B09,5,Zeina Ahmed,True
+AID 321_1_L1,4,AID 321,1,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,Theater B10,10,Omnia Shehata,True
+AID 411_1_L0,4,AID 411,1,tue_9:00_10:30,Tuesday,09:00:00,10:30:00,Theater B25 F1.19,17,Nada Essam,True
+AID 411_1_L1,4,AID 411,1,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,Theater B09,17,Nada Essam,True
+AID 413_1_L0,4,AID 413,1,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,Theater B10,18,Mariem Nagy,True
+AID 413_1_L1,4,AID 413,1,tue_10:45_12:15,Tuesday,10:45:00,12:15:00,Theater B25 F1.19,22,Ahmed Arafa,True
+AID 414_1_L0,4,AID 414,1,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,Theater B07,4,Zeina Shreif,False
+AID 417_1_L0,4,AID 417,1,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B18-G05,13,Fatma Elsayed,True
+AID 417_1_L1,4,AID 417,1,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B18 G09,13,Fatma Elsayed,True
+AID 427_1_L0,4,AID 427,1,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,COE PHY LAB,5,Zeina Ahmed,True
+AID 427_1_L1,4,AID 427,1,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,G17-G01,6,Bottleneck,True
+AID 428_1_L0,4,AID 428,1,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,Theater B08,10,Omnia Shehata,True
+AID 428_1_L1,4,AID 428,1,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,B18-G20,5,Zeina Ahmed,True
+AID 321_2_L0,4,AID 321,2,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,Theater B09,20,Marghany Hassan,True
+AID 321_2_L1,4,AID 321,2,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,COE PHY LAB,10,Omnia Shehata,True
+AID 411_2_L0,4,AID 411,2,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,Theater B10,17,Nada Essam,True
+AID 411_2_L1,4,AID 411,2,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,G17-G01,17,Nada Essam,True
+AID 413_2_L0,4,AID 413,2,tue_12:30_2:00,Tuesday,12:30:00,02:00:00,Theater B25 F1.19,18,Mariem Nagy,True
+AID 413_2_L1,4,AID 413,2,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,Theater B07,18,Mariem Nagy,True
+AID 414_2_L0,4,AID 414,2,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,Theater B08,4,Zeina Shreif,False
+AID 417_2_L0,4,AID 417,2,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B18 G09,13,Fatma Elsayed,True
+AID 417_2_L1,4,AID 417,2,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B17-G01,13,Fatma Elsayed,True
+AID 427_2_L0,4,AID 427,2,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,Theater B09,6,Bottleneck,True
+AID 427_2_L1,4,AID 427,2,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,Theater B10,8,Menna Hamdy,True
+AID 428_2_L0,4,AID 428,2,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,B18-G20,5,Zeina Ahmed,True
+AID 428_2_L1,4,AID 428,2,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,COE PHY LAB,6,Bottleneck,True
+AID 321_3_L0,4,AID 321,3,tue_2:15_3:45,Tuesday,02:15:00,03:45:00,Theater B25 F1.19,20,Marghany Hassan,True
+AID 321_3_L1,4,AID 321,3,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,G17-G01,10,Omnia Shehata,True
+AID 411_3_L0,4,AID 411,3,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,Theater B07,17,Nada Essam,True
+AID 411_3_L1,4,AID 411,3,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,Theater B08,20,Marghany Hassan,True
+AID 413_3_L0,4,AID 413,3,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,Theater B09,18,Mariem Nagy,True
+AID 413_3_L1,4,AID 413,3,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,Theater B10,22,Ahmed Arafa,True
+AID 414_3_L0,4,AID 414,3,wed_9:00_10:30,Wednesday,09:00:00,10:30:00,Theater B25 F1.19,4,Zeina Shreif,False
+AID 417_3_L0,4,AID 417,3,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B17-G16,14,Mohamed Issa,True
+AID 417_3_L1,4,AID 417,3,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B07 F1.04,13,Fatma Elsayed,True
+AID 427_3_L0,4,AID 427,3,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B18-G14,4,Zeina Shreif,True
+AID 427_3_L1,4,AID 427,3,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B18-G17,5,Zeina Ahmed,True
+AID 428_3_L0,4,AID 428,3,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,B18-G20,6,Bottleneck,True
+AID 428_3_L1,4,AID 428,3,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,COE PHY LAB,10,Omnia Shehata,True
+AID 321_4_L0,4,AID 321,4,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,G17-G01,20,Marghany Hassan,True
+AID 321_4_L1,4,AID 321,4,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B18 G13,5,Zeina Ahmed,True
+AID 411_4_L0,4,AID 411,4,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,Theater B07,17,Nada Essam,True
+AID 411_4_L1,4,AID 411,4,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B18-G01,17,Nada Essam,True
+AID 413_4_L0,4,AID 413,4,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,Theater B08,18,Mariem Nagy,True
+AID 413_4_L1,4,AID 413,4,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,Theater B09,22,Ahmed Arafa,True
+AID 414_4_L0,4,AID 414,4,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,Theater B10,7,Heba,False
+AID 417_4_L0,4,AID 417,4,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B07 G12,14,Mohamed Issa,True
+AID 417_4_L1,4,AID 417,4,thu_12:30_2:00,Thursday,12:30:00,02:00:00,B07 F1.04,13,Fatma Elsayed,True
+AID 427_4_L0,4,AID 427,4,wed_10:45_12:15,Wednesday,10:45:00,12:15:00,Theater B25 F1.19,8,Menna Hamdy,True
+AID 427_4_L1,4,AID 427,4,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B18-G05,4,Zeina Shreif,True
+AID 428_4_L0,4,AID 428,4,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B18-G14,6,Bottleneck,True
+AID 428_4_L1,4,AID 428,4,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B18-G17,10,Omnia Shehata,True
+AID 321_5_L0,4,AID 321,5,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,B18-G20,20,Marghany Hassan,True
+AID 321_5_L1,4,AID 321,5,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B18 G13,5,Zeina Ahmed,True
+AID 411_5_L0,4,AID 411,5,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B18-G01,17,Nada Essam,True
+AID 411_5_L1,4,AID 411,5,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B18-G05,20,Marghany Hassan,True
+AID 413_5_L0,4,AID 413,5,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,COE PHY LAB,18,Mariem Nagy,True
+AID 413_5_L1,4,AID 413,5,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,G17-G01,22,Ahmed Arafa,True
+AID 414_5_L0,4,AID 414,5,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,Theater B07,7,Heba,False
+AID 417_5_L0,4,AID 417,5,thu_12:30_2:00,Thursday,12:30:00,02:00:00,B07 G01,14,Mohamed Issa,True
+AID 417_5_L1,4,AID 417,5,thu_2:15_3:45,Thursday,02:15:00,03:45:00,B07 F1.04,13,Fatma Elsayed,True
+AID 427_5_L0,4,AID 427,5,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,Theater B08,8,Menna Hamdy,True
+AID 427_5_L1,4,AID 427,5,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B18-G14,4,Zeina Shreif,True
+AID 428_5_L0,4,AID 428,5,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B18-G17,6,Bottleneck,True
+AID 428_5_L1,4,AID 428,5,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,B18-G20,10,Omnia Shehata,True
+AID 321_6_L0,4,AID 321,6,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B17-G22,5,Zeina Ahmed,True
+AID 321_6_L1,4,AID 321,6,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B18 F1.5,10,Omnia Shehata,True
+AID 411_6_L0,4,AID 411,6,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B18 G08,17,Nada Essam,True
+AID 411_6_L1,4,AID 411,6,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B18 G09,20,Marghany Hassan,True
+AID 413_6_L0,4,AID 413,6,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,COE PHY LAB,18,Mariem Nagy,True
+AID 413_6_L1,4,AID 413,6,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,G17-G01,22,Ahmed Arafa,True
+AID 414_6_L0,4,AID 414,6,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,Theater B09,11,Nada Hamdy,False
+AID 417_6_L0,4,AID 417,6,thu_2:15_3:45,Thursday,02:15:00,03:45:00,B07 F1.24,14,Mohamed Issa,True
+AID 417_6_L1,4,AID 417,6,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,Theater B10,12,Samir Ahmed,False
+AID 427_6_L0,4,AID 427,6,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,Theater B07,8,Menna Hamdy,True
+AID 427_6_L1,4,AID 427,6,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B18 G13,4,Zeina Shreif,True
+AID 428_6_L0,4,AID 428,6,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B18-G01,2,Ahmed Bayumi,True
+AID 428_6_L1,4,AID 428,6,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B18-G05,6,Bottleneck,True
+AID 321_7_L0,4,AID 321,7,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B18-G14,21,Salma Alashry,True
+AID 321_7_L1,4,AID 321,7,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B17.G17,5,Zeina Ahmed,True
+AID 411_7_L0,4,AID 411,7,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B17-G01,17,Nada Essam,True
+AID 411_7_L1,4,AID 411,7,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B17-G16,20,Marghany Hassan,True
+AID 413_7_L0,4,AID 413,7,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B18-G17,18,Mariem Nagy,True
+AID 413_7_L1,4,AID 413,7,thu_9:00_10:30,Thursday,09:00:00,10:30:00,B18-G20,22,Ahmed Arafa,True
+AID 414_7_L0,4,AID 414,7,wed_12:30_2:00,Wednesday,12:30:00,02:00:00,Theater B25 F1.19,15,Mariam Ismael,False
+AID 417_7_L0,4,AID 417,7,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,Theater B08,7,Heba,False
+AID 417_7_L1,4,AID 417,7,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,Theater B09,11,Nada Hamdy,False
+AID 427_7_L0,4,AID 427,7,thu_9:00_10:30,Thursday,09:00:00,10:30:00,COE PHY LAB,8,Menna Hamdy,True
+AID 427_7_L1,4,AID 427,7,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B17-G22,4,Zeina Shreif,True
+AID 428_7_L0,4,AID 428,7,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B18 F1.5,2,Ahmed Bayumi,True
+AID 428_7_L1,4,AID 428,7,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B18 G08,6,Bottleneck,True
+AID 321_8_L0,4,AID 321,8,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B18 G09,10,Omnia Shehata,True
+AID 321_8_L1,4,AID 321,8,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B18 G13,21,Salma Alashry,True
+AID 411_8_L0,4,AID 411,8,thu_12:30_2:00,Thursday,12:30:00,02:00:00,B07 G12,17,Nada Essam,True
+AID 411_8_L1,4,AID 411,8,thu_12:30_2:00,Thursday,12:30:00,02:00:00,B17.G17,20,Marghany Hassan,True
+AID 413_8_L0,4,AID 413,8,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B18-G01,18,Mariem Nagy,True
+AID 413_8_L1,4,AID 413,8,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B18-G05,22,Ahmed Arafa,True
+AID 414_8_L0,4,AID 414,8,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,Theater B10,12,Samir Ahmed,False
+AID 417_8_L0,4,AID 417,8,wed_2:15_3:45,Wednesday,02:15:00,03:45:00,Theater B25 F1.19,15,Mariam Ismael,False
+AID 417_8_L1,4,AID 417,8,thu_9:00_10:30,Thursday,09:00:00,10:30:00,G17-G01,3,Nourhan Waleed,False
+AID 427_8_L0,4,AID 427,8,thu_10:45_12:15,Thursday,10:45:00,12:15:00,B18-G14,8,Menna Hamdy,True
+AID 427_8_L1,4,AID 427,8,thu_12:30_2:00,Thursday,12:30:00,02:00:00,B17-G01,4,Zeina Shreif,True
+AID 428_8_L0,4,AID 428,8,thu_12:30_2:00,Thursday,12:30:00,02:00:00,B17-G16,2,Ahmed Bayumi,True
+AID 428_8_L1,4,AID 428,8,thu_12:30_2:00,Thursday,12:30:00,02:00:00,B17-G22,5,Zeina Ahmed,True
+AID 321_9_L0,4,AID 321,9,thu_12:30_2:00,Thursday,12:30:00,02:00:00,B18 F1.1,10,Omnia Shehata,True
+AID 321_9_L1,4,AID 321,9,thu_12:30_2:00,Thursday,12:30:00,02:00:00,B18 F1.10,21,Salma Alashry,True
+AID 411_9_L0,4,AID 411,9,thu_2:15_3:45,Thursday,02:15:00,03:45:00,B07 G01,17,Nada Essam,True
+AID 411_9_L1,4,AID 411,9,thu_2:15_3:45,Thursday,02:15:00,03:45:00,B07 G12,20,Marghany Hassan,True
+AID 413_9_L0,4,AID 413,9,thu_12:30_2:00,Thursday,12:30:00,02:00:00,B18 F1.5,18,Mariem Nagy,True
+AID 413_9_L1,4,AID 413,9,thu_12:30_2:00,Thursday,12:30:00,02:00:00,B18 G08,22,Ahmed Arafa,True
+AID 414_9_L0,4,AID 414,9,thu_9:00_10:30,Thursday,09:00:00,10:30:00,Theater B07,7,Heba,False
+AID 417_9_L0,4,AID 417,9,thu_9:00_10:30,Thursday,09:00:00,10:30:00,Theater B08,9,Ahmed Anter,False
+AID 417_9_L1,4,AID 417,9,thu_9:00_10:30,Thursday,09:00:00,10:30:00,Theater B09,11,Nada Hamdy,False
+AID 427_9_L0,4,AID 427,9,thu_12:30_2:00,Thursday,12:30:00,02:00:00,B18 G09,6,Bottleneck,True
+AID 427_9_L1,4,AID 427,9,thu_12:30_2:00,Thursday,12:30:00,02:00:00,B18 G13,8,Menna Hamdy,True
+AID 428_9_L0,4,AID 428,9,thu_2:15_3:45,Thursday,02:15:00,03:45:00,B17.G17,2,Ahmed Bayumi,True
+AID 428_9_L1,4,AID 428,9,thu_2:15_3:45,Thursday,02:15:00,03:45:00,B17-G01,5,Zeina Ahmed,True

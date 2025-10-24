@@ -1,0 +1,7 @@
+Timetable generation report
+Rows (assigned lectures): 495
+Qualified assignments: 479
+Unqualified assignments: 16
+Violations during greedy (fallbacks): 0
+Local improvements applied: 0
+Generation time (s): 4.8698
